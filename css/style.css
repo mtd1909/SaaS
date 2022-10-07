@@ -81,7 +81,7 @@
   height: 2px;
   background-color: var(--white);
   position: absolute;
-  bottom: 0;
+  bottom: 10px;
   transition: all 0.3s ease;
 }
 @media (max-width: 991px) {
