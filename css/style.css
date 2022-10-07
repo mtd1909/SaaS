@@ -30,6 +30,9 @@
     margin-left: -15px;
   }
 }
+.header .container .wrap__header .header__right {
+  align-items: center;
+}
 @media (max-width: 991px) {
   .header .container .wrap__header .header__right .header__menu {
     top: 0;

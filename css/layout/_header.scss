@@ -29,6 +29,7 @@
         }
       }
       .header__right {
+        align-items: center;
         .header__menu {
           @media (max-width: 991px) {
             top: 0;
